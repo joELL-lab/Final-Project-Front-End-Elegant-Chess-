@@ -42,7 +42,7 @@ A clean and elegant two-player chess web app built with React, Vite, and Tailwin
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YourUsername/elegant-chess-masterpiece.git
+git clone https://github.com/joELL-lab/Final-Project-Front-End-Elegant-Chess-.git
 cd elegant-chess-masterpiece
 ```
 
